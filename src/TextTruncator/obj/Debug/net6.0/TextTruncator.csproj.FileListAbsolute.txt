@@ -1,0 +1,15 @@
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\7.CSharp-Text-Truncator\CSharp-Text-Truncator\src\TextTruncator\bin\Debug\net6.0\TextTruncator.exe
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\7.CSharp-Text-Truncator\CSharp-Text-Truncator\src\TextTruncator\bin\Debug\net6.0\TextTruncator.deps.json
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\7.CSharp-Text-Truncator\CSharp-Text-Truncator\src\TextTruncator\bin\Debug\net6.0\TextTruncator.runtimeconfig.json
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\7.CSharp-Text-Truncator\CSharp-Text-Truncator\src\TextTruncator\bin\Debug\net6.0\TextTruncator.dll
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\7.CSharp-Text-Truncator\CSharp-Text-Truncator\src\TextTruncator\bin\Debug\net6.0\TextTruncator.pdb
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\7.CSharp-Text-Truncator\CSharp-Text-Truncator\src\TextTruncator\obj\Debug\net6.0\TextTruncator.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\7.CSharp-Text-Truncator\CSharp-Text-Truncator\src\TextTruncator\obj\Debug\net6.0\TextTruncator.AssemblyInfoInputs.cache
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\7.CSharp-Text-Truncator\CSharp-Text-Truncator\src\TextTruncator\obj\Debug\net6.0\TextTruncator.AssemblyInfo.cs
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\7.CSharp-Text-Truncator\CSharp-Text-Truncator\src\TextTruncator\obj\Debug\net6.0\TextTruncator.csproj.CoreCompileInputs.cache
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\7.CSharp-Text-Truncator\CSharp-Text-Truncator\src\TextTruncator\obj\Debug\net6.0\TextTruncator.sourcelink.json
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\7.CSharp-Text-Truncator\CSharp-Text-Truncator\src\TextTruncator\obj\Debug\net6.0\TextTruncator.dll
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\7.CSharp-Text-Truncator\CSharp-Text-Truncator\src\TextTruncator\obj\Debug\net6.0\refint\TextTruncator.dll
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\7.CSharp-Text-Truncator\CSharp-Text-Truncator\src\TextTruncator\obj\Debug\net6.0\TextTruncator.pdb
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\7.CSharp-Text-Truncator\CSharp-Text-Truncator\src\TextTruncator\obj\Debug\net6.0\TextTruncator.genruntimeconfig.cache
+D:\1.Projects\1.Portfolio\2.OpenSource\2.Applications_PUSHToGit\7.CSharp-Text-Truncator\CSharp-Text-Truncator\src\TextTruncator\obj\Debug\net6.0\ref\TextTruncator.dll
