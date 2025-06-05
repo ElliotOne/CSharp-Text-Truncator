@@ -1,0 +1,1 @@
+# CSharp-Text-Truncator
